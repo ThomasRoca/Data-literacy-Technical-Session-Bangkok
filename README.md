@@ -25,7 +25,7 @@ II. Accessing data from networks
   - [Faces and Emotion detection](http://pythonappcela.azurewebsites.net/computer_vision)
   
 III. Applications
-- [Make and api querry](https://jsfiddle.net/ThomasRoca/j5d919k4/)
+- [Hello World ! Make a call to World Bank api](https://jsfiddle.net/ThomasRoca/j5d919k4/)
 - Hands-on 1: [Pollution in Amaravati](http://jsfiddle.net/ThomasRoca/bLbz5oqd/)
 
 
