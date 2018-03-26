@@ -21,8 +21,8 @@ II. Accessing data from networks
 - API the programmatic way to share and access data
 - API: provides data and services
 - Algorithm and Machine Learning as a Service
-  - (Example Sentiment analysis)[https://pythonappcela.azurewebsites.net/sentiment_analysis]
-  - (Faces and Emotion detection)[http://pythonappcela.azurewebsites.net/computer_vision]
+  - [Example Sentiment analysis](https://pythonappcela.azurewebsites.net/sentiment_analysis)
+  - [Faces and Emotion detection](http://pythonappcela.azurewebsites.net/computer_vision)
   
 III. Applications
 - Hands-on 1: [Pollution in Amaravati](http://jsfiddle.net/ThomasRoca/bLbz5oqd/)
