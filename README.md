@@ -25,4 +25,5 @@ II. Accessing data from networks
   - (Faces and Emotion detection)[http://pythonappcela.azurewebsites.net/computer_vision]
   
 III. Applications
+- Hands-on 1: [Pollution in Amaravati](http://jsfiddle.net/ThomasRoca/bLbz5oqd/)
 IV. Data analytics as a service
