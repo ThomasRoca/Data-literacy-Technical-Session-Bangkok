@@ -42,6 +42,9 @@ III. Applications
 - Hagley, J. What is the difference bewteen infographic and dataviz ? [Link](http://www.jackhagley.com/What-s-the-difference-between-an-Infographic-and-a-Data-Visualisation)
 
 ### Tutorials
+
+- Getting data from your browser: https://medium.com/@mustaphamekhatria/getting-data-from-the-web-edf4c9809da9
+
 - **online tools**
 	- [Pick your color](https://www.w3schools.com/colors/colors_picker.asp) with [Color brewer](http://colorbrewer2.org)
 	- Read your JSON with [jsoneditoronline.org](http://jsoneditoronline.org/)
