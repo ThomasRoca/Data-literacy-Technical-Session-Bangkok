@@ -29,9 +29,9 @@ III. Applications
 - Hands-on 1: [make your first dataviz with Highcharts](https://www.highcharts.com/demo/line-basic) 
 - Hands-on 2: [Pollution in Amaravati](http://jsfiddle.net/ThomasRoca/bLbz5oqd/)
 
-### More resources
+## More resources
 
-## Further reading:
+### Further reading:
 - Friendly, M., 1999, "Re-Visions of Minard", [link](http://www.datavis.ca/gallery/minard/minard.pdf])
 - Friendly, M., 2008, "A Brief History of Data Visualization" [link](http://byrneslab.net/classes/biol607/readings/Friendly_2008_dataviz_history.pdf)
 - Lupi, H., Posavec, S.,2016, "Dear Data", http://www.dear-data.com/
