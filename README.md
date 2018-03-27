@@ -25,7 +25,9 @@ II. Accessing data from networks
   - [Faces and Emotion detection](http://pythonappcela.azurewebsites.net/computer_vision)
   
 III. Hands on! Mining data from networks
-- Scarpping the web
+- Scarpping the web: 
+	- from the browser
+	- with [python](https://tutorial-thomasmsft.notebooks.azure.com/nb/notebooks/Scrap%20data%20from%20the%20web.ipynb)
 - [Hello World ! Make a call to World Bank api](https://jsfiddle.net/ThomasRoca/j5d919k4/)
 - Hands-on 1: [make your first dataviz with Highcharts](https://www.highcharts.com/demo/line-basic) 
 - Hands-on 2: [Pollution in Amaravati](http://jsfiddle.net/ThomasRoca/bLbz5oqd/)
