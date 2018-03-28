@@ -3,6 +3,8 @@
 
 Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://github.com/ThomasRoca/) or [LinkedIn](https://www.linkedin.com/in/thomas-roca-43347484/)
 
+Link to the lecture [available here](http://datactivist.com/lecture/Bangkok%202018.html)
+
 **Tools we are going to use:**
 
 For this workshop, you will need to install a **code editor**:
