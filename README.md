@@ -6,7 +6,7 @@ Stay in touch via [Twitter](https://twitter.com/Thomas_Roca), [Github](https://g
 **Tools we are going to use:**
 
 For this workshop, you will need to install a **code editor**:
-- (e.g. [Visual Studio Code](https://sourceforge.net/projects/vscode-portable/) or [Notepad++](https://notepad-plus-plus.org/fr/), these editors can be installed without admin rights);
+- (e.g. [Visual Studio Code](https://sourceforge.net/projects/vscode-portable/) or [Notepad++](https://notepad-plus-plus.org/fr/), these editors can be installed without admin rights using [portable version: notepad++ portable](https://sourceforge.net/projects/notepadpluspe/));
 
 We are also going to use: 
 - 	**JSFiddle**, a javascript online editor [sign up here - free](https://jsfiddle.net/user/signup/)
