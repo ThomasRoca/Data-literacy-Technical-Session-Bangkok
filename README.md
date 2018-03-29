@@ -50,6 +50,7 @@ III. Hands on! Mining data from networks
 **Hands on session**
 - Part 1: Getting data from your browser: https://medium.com/@mustaphamekhatria/getting-data-from-the-web-edf4c9809da9
 - Part 2: [Tutorial: API and charts together](http://jsfiddle.net/ThomasRoca/37zddfn3/)
+
 **Tuto I wrote for Highcharts**
 - [Open Data API for Chart Creation part1](https://www.highcharts.com/blog/data-science/233-world-bank-open-data-api-highcharts-part1/)
 - [Open Data API for Chart Creation part2](https://www.highcharts.com/blog/post/235-open-data-api-for-chart-creation-part-2/)
