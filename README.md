@@ -33,7 +33,7 @@ III. Hands on! Mining data from networks
 - [Hello World ! Make a call to World Bank api](https://jsfiddle.net/ThomasRoca/j5d919k4/)
 - Hands-on 1: [make your first dataviz with Highcharts](https://www.highcharts.com/demo/line-basic) 
 - Hands-on 2: [Pollution in Amaravati](http://jsfiddle.net/ThomasRoca/bLbz5oqd/)
-
+- NEW !: [Tutorial: API and charts together](http://jsfiddle.net/ThomasRoca/37zddfn3/)
 ## More resources
 
 ### Further reading:
@@ -49,6 +49,9 @@ III. Hands on! Mining data from networks
 ### Tutorials
 
 - Getting data from your browser: https://medium.com/@mustaphamekhatria/getting-data-from-the-web-edf4c9809da9
+- [Open Data API for Chart Creation part1](https://www.highcharts.com/blog/data-science/233-world-bank-open-data-api-highcharts-part1/)
+- [Open Data API for Chart Creation part2](https://www.highcharts.com/blog/post/235-open-data-api-for-chart-creation-part-2/)
+
 
 - **online tools**
 	- [Pick your color](https://www.w3schools.com/colors/colors_picker.asp) with [Color brewer](http://colorbrewer2.org)
